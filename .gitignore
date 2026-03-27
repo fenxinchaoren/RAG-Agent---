@@ -1,0 +1,15 @@
+# 忽略所有环境配置文件
+.env
+config.env
+*.env
+
+# 忽略 Python 缓存和虚拟环境
+__pycache__/
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/

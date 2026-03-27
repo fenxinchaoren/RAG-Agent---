@@ -1,0 +1,18 @@
+2026-03-19 10:25:32,044 - agent - ERROR - vector_store.py:98 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫地机器人100问.pdf内容加载失败，PDF_loader() missing 1 required positional argument: 'password'
+2026-03-19 10:25:36,289 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫地机器人100问2.txt内容加载成功
+2026-03-19 10:25:42,607 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫拖一体机器人100问.txt内容加载成功
+2026-03-19 10:25:51,091 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\故障排除.txt内容加载成功
+2026-03-19 10:25:56,097 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\维护保养.txt内容加载成功
+2026-03-19 10:26:01,113 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\选购指南.txt内容加载成功
+2026-03-19 10:35:38,916 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫地机器人100问.pdf内容加载成功
+2026-03-19 10:35:38,918 - agent - INFO - vector_store.py:77 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫地机器人100问2.txt内容已经存在知识库中，跳过
+2026-03-19 10:35:43,349 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫地机器人100问2.txt内容加载成功
+2026-03-19 10:35:43,350 - agent - INFO - vector_store.py:77 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫拖一体机器人100问.txt内容已经存在知识库中，跳过
+2026-03-19 10:35:49,640 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\扫拖一体机器人100问.txt内容加载成功
+2026-03-19 10:35:49,642 - agent - INFO - vector_store.py:77 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\故障排除.txt内容已经存在知识库中，跳过
+2026-03-19 10:35:59,186 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\故障排除.txt内容加载成功
+2026-03-19 10:35:59,188 - agent - INFO - vector_store.py:77 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\维护保养.txt内容已经存在知识库中，跳过
+2026-03-19 10:36:05,097 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\维护保养.txt内容加载成功
+2026-03-19 10:36:05,099 - agent - INFO - vector_store.py:77 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\选购指南.txt内容已经存在知识库中，跳过
+2026-03-19 10:36:10,842 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Study\LangChain_learn\RAG与Agent开发\data\选购指南.txt内容加载成功
+2026-03-19 15:36:33,923 - agent - WARNING - agent_tools.py:81 - [抓取外部数据]未能检索到用户1021在2025-01的使用记录数据

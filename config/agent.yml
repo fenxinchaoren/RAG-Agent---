@@ -1,0 +1,4 @@
+external_data_path: data/external/records.csv
+AMAP_KEY: 2427d1d92ae740e8019cdf1a8795f2d4
+Weather_API: https://restapi.amap.com/v3/weather
+IP_API: https://restapi.amap.com/v3/ip

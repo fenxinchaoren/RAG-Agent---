@@ -1,0 +1,4 @@
+# k:v的形式
+#YAML 语法要求：key: value 中间必须加 空格！,不然就报错
+chat_model_name: qwen3-max
+embedding_model_name: text-embedding-v4
